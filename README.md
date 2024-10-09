@@ -11,7 +11,7 @@ Untuk mengimplementasikan program Freebies, Ucok selanjutnya merancang skematik 
 Note: semua skema ppengujian akan memasukkan telah dirancang untuk memberikan paling sedikit ```2``` buah masukkan.
 
 ### Example 1
-
+624.99
 **Input**:
 ```bash
 24.99
